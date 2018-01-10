@@ -67,7 +67,7 @@ const LandingPage = () => (
               <i class="fa fa-user-circle-o fa-5x font-color" aria-hidden="true"></i>
               <h1 style={{ fontFamily: 'Catamaran' }}>Sign In</h1>
 
-              <Form action="/">
+              <Form action="/dashboard">
                 <div class="form-group">
                   <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email or username" autocomplete="off" />
                   <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
